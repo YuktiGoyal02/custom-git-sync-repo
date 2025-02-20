@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "dd225bcd-d117-413f-95f8-46ad11cdfbdf",
-          "name": "new app1",
+          "name": "new app1 update",
           "slug": "dd225bcd-d117-413f-95f8-46ad11cdfbdf",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-02-20T11:55:06.995Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-02-20T11:55:06.995Z",
+          "updatedAt": "2025-02-20T11:58:49.883Z",
           "editingVersion": {
             "id": "d8276f4b-0b73-49af-9fea-d860d5de5619",
             "name": "v3",
