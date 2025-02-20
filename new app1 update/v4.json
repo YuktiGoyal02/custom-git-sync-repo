@@ -308,17 +308,6 @@
               "updatedAt": "2025-02-20T12:17:23.099Z",
               "layouts": [
                 {
-                  "id": "488bdcaa-4b45-4106-8ae5-604238f34bad",
-                  "type": "desktop",
-                  "top": 30,
-                  "left": 2,
-                  "width": 35,
-                  "height": 456,
-                  "componentId": "3f185c1c-d525-4d77-bb4b-aeacc6f37c4f",
-                  "dimensionUnit": "count",
-                  "updatedAt": "2025-02-20T12:17:22.493Z"
-                },
-                {
                   "id": "79cacd53-de58-4dcf-8847-cc9353c9bdc3",
                   "type": "mobile",
                   "top": 30,
@@ -328,6 +317,120 @@
                   "componentId": "3f185c1c-d525-4d77-bb4b-aeacc6f37c4f",
                   "dimensionUnit": "count",
                   "updatedAt": "2025-02-20T12:17:22.493Z"
+                },
+                {
+                  "id": "488bdcaa-4b45-4106-8ae5-604238f34bad",
+                  "type": "desktop",
+                  "top": 10,
+                  "left": 1,
+                  "width": 35,
+                  "height": 456,
+                  "componentId": "3f185c1c-d525-4d77-bb4b-aeacc6f37c4f",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-02-20T12:17:44.733Z"
+                }
+              ]
+            },
+            {
+              "id": "5af9c1f6-7c8d-4c64-adda-57d191f7e9e2",
+              "name": "button1",
+              "type": "Button",
+              "pageId": "99d54269-9e1d-4e87-86a3-ffc7bc30a5fb",
+              "parent": null,
+              "properties": {
+                "text": {
+                  "value": "Button"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "tooltip": {
+                  "value": ""
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "#FFFFFF"
+                },
+                "borderColor": {
+                  "value": "#4368E3"
+                },
+                "loaderColor": {
+                  "value": "#FFFFFF"
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "backgroundColor": {
+                  "value": "#4368E3"
+                },
+                "iconColor": {
+                  "value": "#FFFFFF"
+                },
+                "direction": {
+                  "value": "left"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "icon": {
+                  "value": "IconAlignBoxBottomLeft"
+                },
+                "iconVisibility": {
+                  "value": false
+                },
+                "type": {
+                  "value": "primary"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2025-02-20T12:18:23.358Z",
+              "updatedAt": "2025-02-20T12:18:23.358Z",
+              "layouts": [
+                {
+                  "id": "0a61f813-ddfd-4aa9-bf52-fdb03db7c56b",
+                  "type": "desktop",
+                  "top": 80,
+                  "left": 37,
+                  "width": 4,
+                  "height": 40,
+                  "componentId": "5af9c1f6-7c8d-4c64-adda-57d191f7e9e2",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-02-20T12:18:23.358Z"
+                },
+                {
+                  "id": "85ef9e53-8ec8-43f2-bd94-27fc243b1162",
+                  "type": "mobile",
+                  "top": 80,
+                  "left": 37,
+                  "width": 4,
+                  "height": 40,
+                  "componentId": "5af9c1f6-7c8d-4c64-adda-57d191f7e9e2",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-02-20T12:18:23.358Z"
                 }
               ]
             }
