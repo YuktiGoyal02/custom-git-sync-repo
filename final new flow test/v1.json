@@ -41,7 +41,114 @@
             "createdAt": "2025-02-20T15:04:47.195Z",
             "updatedAt": "2025-02-20T15:04:47.175Z"
           },
-          "components": [],
+          "components": [
+            {
+              "id": "0b4f0a85-120d-437f-ad50-3ac85c440796",
+              "name": "modal1",
+              "type": "Modal",
+              "pageId": "5cece0aa-3594-4509-9135-4c46b3ab35bc",
+              "parent": null,
+              "properties": {
+                "title": {
+                  "value": "This title can be changed"
+                },
+                "titleAlignment": {
+                  "value": "left"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "useDefaultButton": {
+                  "value": "{{true}}"
+                },
+                "triggerButtonLabel": {
+                  "value": "Launch Modal"
+                },
+                "size": {
+                  "value": "lg"
+                },
+                "hideTitleBar": {
+                  "value": "{{false}}"
+                },
+                "hideCloseButton": {
+                  "value": "{{false}}"
+                },
+                "hideOnEsc": {
+                  "value": "{{true}}"
+                },
+                "closeOnClickingOutside": {
+                  "value": "{{false}}"
+                },
+                "modalHeight": {
+                  "value": "400px"
+                }
+              },
+              "general": {},
+              "styles": {
+                "headerBackgroundColor": {
+                  "value": "#ffffffff"
+                },
+                "headerTextColor": {
+                  "value": "#000000"
+                },
+                "bodyBackgroundColor": {
+                  "value": "#ffffffff"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "triggerButtonBackgroundColor": {
+                  "value": "#4D72FA"
+                },
+                "triggerButtonTextColor": {
+                  "value": "#ffffffff"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2025-02-20T15:05:16.255Z",
+              "updatedAt": "2025-02-20T15:05:16.255Z",
+              "layouts": [
+                {
+                  "id": "533aadd1-ea7b-476d-add1-41e3bcad0cb0",
+                  "type": "desktop",
+                  "top": 110,
+                  "left": 18,
+                  "width": 10,
+                  "height": 34,
+                  "componentId": "0b4f0a85-120d-437f-ad50-3ac85c440796",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-02-20T15:05:16.255Z"
+                },
+                {
+                  "id": "8299fb3d-0b26-4273-a32c-21cfdee63450",
+                  "type": "mobile",
+                  "top": 110,
+                  "left": 18,
+                  "width": 10,
+                  "height": 34,
+                  "componentId": "0b4f0a85-120d-437f-ad50-3ac85c440796",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-02-20T15:05:16.255Z"
+                }
+              ]
+            }
+          ],
           "pages": [
             {
               "id": "5cece0aa-3594-4509-9135-4c46b3ab35bc",
