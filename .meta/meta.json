@@ -9,10 +9,10 @@
   },
   "dd225bcd-d117-413f-95f8-46ad11cdfbdf": {
     "gitAppName": "new app1",
-    "lastCommitMessage": "Version v1 is renamed to v1 updated",
-    "gitVersionId": "2c7631a2-dc09-4aa2-85de-1d00b3504087",
-    "lastpushDate": "2025-02-20T11:56:09.029Z",
-    "gitVersionName": "v1 updated",
+    "lastCommitMessage": "Version v2 created Created of app new app1",
+    "gitVersionId": "5c1dd384-6203-480d-86fc-4f069ac6daae",
+    "lastpushDate": "2025-02-20T11:56:34.175Z",
+    "gitVersionName": "v2 created",
     "lastCommitUser": "yukti "
   }
 }
