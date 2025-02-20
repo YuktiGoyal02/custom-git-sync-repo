@@ -32,10 +32,10 @@
     "lastCommitUser": "The Developer"
   },
   "bcc3e70e-d55b-474a-81e0-a57006af2d75": {
-    "gitAppName": "new app flow 2",
-    "lastCommitMessage": "App new app flow 2 created",
+    "gitAppName": "new app flow 2 update",
+    "lastCommitMessage": "App new app flow 2 is renamed to new app flow 2 update",
     "gitVersionId": "e1538bdd-93b5-4a85-b029-07d5350962c6",
-    "lastpushDate": "2025-02-20T14:09:57.043Z",
+    "lastpushDate": "2025-02-20T14:10:31.043Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
   }

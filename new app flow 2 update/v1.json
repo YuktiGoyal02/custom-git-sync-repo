@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "bcc3e70e-d55b-474a-81e0-a57006af2d75",
-          "name": "new app flow 2",
+          "name": "new app flow 2 update",
           "slug": "bcc3e70e-d55b-474a-81e0-a57006af2d75",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-02-20T14:09:49.215Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-02-20T14:09:49.214Z",
+          "updatedAt": "2025-02-20T14:10:28.303Z",
           "editingVersion": {
             "id": "e1538bdd-93b5-4a85-b029-07d5350962c6",
             "name": "v1",
