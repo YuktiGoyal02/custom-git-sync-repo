@@ -54,5 +54,13 @@
     "lastpushDate": "2025-02-20T15:05:32.140Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
+  },
+  "8e585c9c-7807-4129-a696-8fe5749572ea": {
+    "gitAppName": "retest new",
+    "lastCommitMessage": "App retest new created",
+    "gitVersionId": "3e2ab939-89b5-4293-97a4-de1bf3a56a07",
+    "lastpushDate": "2025-02-21T09:17:30.827Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "The Developer"
   }
 }
